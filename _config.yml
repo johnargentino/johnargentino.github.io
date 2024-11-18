@@ -18,14 +18,10 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: /Argentino_John_CV.pdf, title: "CV"}
   - {title: Home, url: https://johnargentino.github.io/}
-  - {title: Writings, file: blog.md}
-  - {title: Projects, file: projects.md}
-  - {title: Photos, file: photos.md}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jargentino@tulane.edu"}
   - {title: Github, icon: github, url: "https://github.com/johnargentino"}
-  - {title: Social, icon: , url: ""}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
